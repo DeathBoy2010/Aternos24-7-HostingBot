@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Pr0t3In_.aternos.me",
+    "ip": "Pr0t3In_.aternos.me:41333",
     "port": 41333,
     "version": "",
     "try-creative": false
